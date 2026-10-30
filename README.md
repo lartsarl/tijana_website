@@ -1,6 +1,6 @@
 # Tijana — personal trainer website
 
-Responsive Serbian static website inspired by the layout and charcoal/yellow palette of anajakovljevic.com. Original implementation, copy, and T monogram. No package installation or build required.
+Responsive Serbian static website inspired by the layout and charcoal/red palette of anajakovljevic.com. Original implementation, copy, and T monogram. No package installation or build required.
 
 ## Preview
 
@@ -22,5 +22,3 @@ Serve `dist/` with any static server, for example `python -m http.server 8080 --
 - `dist/assets/`: illustrative photography
 
 Google Fonts loads DM Sans and Montserrat with system fallbacks. Hosting uses `dist/` as its static root.
-
-python -m http.server 8080 --bind 127.0.0.1 --directory dist
