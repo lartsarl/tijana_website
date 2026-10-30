@@ -22,3 +22,5 @@ Serve `dist/` with any static server, for example `python -m http.server 8080 --
 - `dist/assets/`: illustrative photography
 
 Google Fonts loads DM Sans and Montserrat with system fallbacks. Hosting uses `dist/` as its static root.
+
+python -m http.server 8080 --bind 127.0.0.1 --directory dist
